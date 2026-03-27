@@ -66,7 +66,7 @@ Linhas separadoras e cores ajudam o usuário a identificar rapidamente o resulta
 
 ## 📌 Conclusão
 Evidência do funcionamento completo do programa:
-[Imagem do Programa Completo](https://github.com/manulaportee/una-ihcux-lista05/blob/main/Imagem%20do%20Programa%20Completo.png)
+![Imagem do Programa Completo](https://github.com/manulaportee/una-ihcux-lista05/blob/main/Imagem%20do%20Programa%20Completo.png)
 
 O sistema demonstra que princípios de UX podem ser aplicados mesmo em aplicações de console.  
 As heurísticas utilizadas contribuem para:
